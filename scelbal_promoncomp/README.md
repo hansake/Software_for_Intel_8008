@@ -1,5 +1,9 @@
 This directory contains the SCELBAL source code modified for promoncomp (the "homemade" 8008 based computer).
-Modified from sc1.asm downloaded from http://www.willegal.net/scelbi/scelbal.html
+
+The code for the "promoncomp" simulator in SIMH is here:
+https://github.com/hansake/simh/tree/master/Intel-Systems/promoncomp
+
+The SCELBAL source code as modified from sc1.asm downloaded from http://www.willegal.net/scelbi/scelbal.html
 
 Assemble sc1pmk.asm with as8, just do make.
 
