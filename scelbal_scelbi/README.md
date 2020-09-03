@@ -3,6 +3,7 @@ and assembled with AS8.
 
 Assemble SCELBAL source sc1.asm
 * as8 -markascii -bin -octal sc1.asm
+* (or just make)
 
 Start the SCELBI simulator
 * scelbi
