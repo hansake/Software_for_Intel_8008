@@ -7,7 +7,7 @@ The SCELBAL source code as modified from sc1.asm downloaded from http://www.will
 
 Assemble sc1pmk.asm with as8, just do make.
 
-Test runnibg SCELBAL:
+Test running SCELBAL:
 * promoncomp
 *
 * promoncomp simulator V4.0-0 Current        git commit id: 65af08bd
