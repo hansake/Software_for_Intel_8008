@@ -25,3 +25,12 @@ Load and run SCELBAL
 *  20.0
 * 
 * READY
+
+Initially in the development of the SIMH SCELBY simulator I could not get hold
+of the AS8 assembler, so instead I modified the SCELBAL source code to be assembled
+with the Macro Assembler AS (http://john.ccac.rwth-aachen.de:8000/as/).
+The modified SCELBAL source is sc-asl.asm.
+
+To assemble and make a loadable binary:
+* asl -L sc-asl.asm
+* p2bin -l 0 -r 0-\$ sc-asl
