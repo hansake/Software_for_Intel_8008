@@ -5,7 +5,7 @@ https://github.com/hansake/simh/tree/master/Intel-Systems/mtc8008
 
 The SCELBAL source code as modified from sc1.asm downloaded from http://www.willegal.net/scelbi/scelbal.html
 
-Assemble sc1pmk.asm with as8, just do make.
+Assemble sc1mtc.asm with as8, just do make.
 
 Test running SCELBAL:
 * mtc8008
