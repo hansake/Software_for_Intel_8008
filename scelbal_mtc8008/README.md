@@ -11,7 +11,7 @@ Test running SCELBAL:
 * mtc8008
 *
 * mtc8008 simulator V4.0-0 Current        git commit id: 65af08bd
-* sim> load sc1pmk.bin
+* sim> load sc1mtc.bin
 * 16384 Bytes loaded.
 * sim> g 100
 *
