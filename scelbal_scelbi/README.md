@@ -26,6 +26,8 @@ Load and run SCELBAL
 * 
 * READY
 
+There is also a faster variant of SCELBAL in the source file sc1fast.asm.
+
 Initially in the development of the SIMH SCELBY simulator I could not get hold
 of the AS8 assembler, so instead I modified the SCELBAL source code to be assembled
 with the Macro Assembler AS (http://john.ccac.rwth-aachen.de:8000/as/).
